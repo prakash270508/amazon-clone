@@ -1,0 +1,62 @@
+.navbar {
+    background-color: #131921;
+    color: white;
+}
+
+#logoImg{
+    height: 3vw;
+    width: 6vw;
+    margin-left: -11px;
+    overflow: hidden;
+}
+
+#locationImg{
+    height: 2vw;
+    width: 2vw;
+    margin-top: 22px;
+    margin-right: -12px;
+    margin-left: -21px;
+    overflow: hidden;
+}
+
+#navbarDropdown {
+    border: 1px px solid white;
+    margin-top: 11px;
+    margin-left: 20px;
+    color: black;
+    background-color: whitesmoke;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    height: 2.5vw;
+}
+#searchBar{
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+#flagImage{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    margin-left: 70.4vw;
+    z-index: 10;
+}
+#dropdownMenuButton1{
+    margin-left: 10px;
+    height: 50px;
+    padding-left: 40px;
+    background-color: #131921;
+    color: white;
+    border: none;
+}
+#dropdownMenuButton1:hover{
+    border: 1.3px solid white;
+}
+
+.searchImg{
+    height: 38px;
+    /* margin-left: -7px; */
+    margin: -19px -36px;
+    /* padding: 45px -24px; */
+    position: absolute;
+}

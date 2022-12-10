@@ -1,0 +1,81 @@
+.footer{
+    background-color: #232F3E;
+    color: white;
+    font-family: Arial,sans-serif;
+}
+
+.link{
+    text-decoration: none;
+    color: #007185;
+}
+
+.link:hover{
+    text-decoration: solid red;
+    color: red;
+}
+.footPart{
+    text-align: center;
+}
+.inBtn{
+    /* background-color: #ffcc32; */
+    box-shadow: none;
+    width: 17vw;
+    border-radius: 5px;
+    margin-top: -1vw;
+    text-align: center;
+    font-family: serif;
+}
+.btt{
+    width: 100%;
+    background-color: #2d3b4c;
+    color: #FFFFFF;
+    height: 3vw;
+}
+
+.btt:hover{
+    background-color: #39495c;
+}
+.nav-link{
+    color: #DDDDDD;
+    font-size: 14px;
+}
+.nav-link:hover{
+    color: #DDDDDD;
+    font-size: 14px;
+    text-decoration: underline;
+}
+.row{
+    margin-left: 15vw;
+}
+.col-2{
+    margin-left: 3vw;
+}
+.last{
+    margin-left: 20vw;
+    margin-top:-10px ;
+}
+.box{
+    background-color: #232F3E;
+    color: #DDDDDD;
+    margin-left: 20px;
+    width: 11vw;
+    border: 0.1px solid #b4b4b4;
+    height: 2vw;
+    border-radius: 3px;
+    margin-top: 1vw;
+}
+
+.lastFoot{
+    padding-top: 4vw;
+    background-color: black;
+    color: #DDDDDD;
+}
+.words{
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 10px;
+    width: 80px;
+}
+.words:hover{
+    text-decoration: underline;
+}

@@ -1,0 +1,58 @@
+.link{
+    text-decoration: none;
+    color: #007185;
+}
+
+.link:hover{
+    color: red;
+}
+.line{
+    position: absolute;
+    height: 40px;
+    /* border: 1px solid; */
+    box-shadow: 2px 2px 2px rgb(208, 206, 206);
+    width: 96%;
+    margin: -23vw 22px;
+    background-color: whitesmoke;
+    text-align: center;
+    padding-top: 7px;
+}
+.croselBtn{
+    height: 14vw;
+    /* border: 1px solid black; */
+    margin: 30px 1px;
+    width: 5vw;
+}
+.card{
+    width: 22rem;
+    /* border: 1px solid black; */
+    margin-top: -19vw;
+    border-radius: 1px;
+}
+
+.cardImg{
+    height: 100px;
+    width: 8.5vw;
+}
+.signinBtn{
+    border: none;
+    border-radius: 8px;
+    width: 17rem;
+    height: 2.2vw;
+    margin-top: 1.1vw;
+    margin-left: 29px;
+}
+
+.phaltu{
+    position: absolute;
+    margin: -15vw 75vw;
+}
+
+.card2{
+    margin-top: 2vw;
+}
+.book{
+    background-color: white;
+    width: 96%;
+    margin-left: 23px;
+}
